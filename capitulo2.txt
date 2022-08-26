@@ -8,3 +8,5 @@ mudanças para  a nova branch
 story cap2
 
 Jesus te ama viu!
+
+Fazendo modificações para explicar o fork na aula da tipscode
